@@ -1,0 +1,6 @@
+T=int(input())
+lst=[] 
+
+  
+
+
