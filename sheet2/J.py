@@ -6,4 +6,4 @@ for i in range(2,N+1):
             t=False
             break
     if t==True:
-        print(i)
+        print(i,end=" ")

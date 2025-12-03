@@ -8,4 +8,5 @@ elif a_div:
 elif b_div:
     print("Momo")
 else:
-    print("NO One")
+    print("No One")
+# 
