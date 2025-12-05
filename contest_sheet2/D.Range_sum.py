@@ -1,9 +1,10 @@
 T=int(input())
 lst=[]
 for i in range(T):
- lst.append(list(map(int,input().split())))
-for i in lst:
-    sum=0
-    for j in range(i[0],i[1]+1):
-        sum+=j
+ l,r=map(int,input().split())
+ lst.append((l,r))
+for l,r in lst:
+    if(r<l):
+       l,r=r,l
+    sum=((r-l+1)*(r+l))//2
     print(sum)
