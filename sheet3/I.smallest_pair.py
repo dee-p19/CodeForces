@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # T=int(input())
 # lst=[]
 # for i in range(T):
@@ -17,6 +18,8 @@
 #     print(" ") 
 
 
+=======
+>>>>>>> 90a5fadffa528ccc3c98d835a940a7aa0891ebed
 T = int(input())
 
 for _ in range(T):
