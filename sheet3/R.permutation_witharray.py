@@ -5,4 +5,4 @@ B = list(map(int, input().split()))
 if sorted(A) == sorted(B):
     print("yes")
 else:
-    print("no")
+   print("no")
