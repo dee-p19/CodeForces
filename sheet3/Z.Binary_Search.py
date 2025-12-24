@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 N,Q=map(int,input().split())
 lst=list(map(int,input().split()))
 a=[]
@@ -10,10 +9,5 @@ for i in range(Q):
        a.append("not found")
 for i in a:
     print(i)
-=======
-N,Q=map(int,input().split())
-lst=list(map(int,input().split()))
-a=[]
-for i in range(Q):
-    a.append(int(input()))
->>>>>>> edace74 (commit)
+
+

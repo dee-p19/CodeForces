@@ -11,5 +11,4 @@ for i in range(N):
 if(found):
   print("will not take number")
 else:
-  print("will " \
-  "take number")
+  print("will take number")
