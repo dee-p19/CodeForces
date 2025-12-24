@@ -1,4 +1,5 @@
 
+
 n, m = map(int, input().split())
 grid = [list(input()) for _ in range(n)]
 x, y = map(int, input().split())
@@ -21,7 +22,7 @@ for dx, dy in directions:
             print("no")
             break
 else:
-    print("yes")
+  print("yes")
 
 
 
