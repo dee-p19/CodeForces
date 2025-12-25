@@ -9,5 +9,3 @@ for i in range(Q):
        a.append("not found")
 for i in a:
     print(i)
-
-
