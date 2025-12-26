@@ -10,8 +10,6 @@
 #   print(sum)
 
   
-# import sys
-# input = sys.stdin.readline
 
 # Read N and Q
 N, Q = map(int, input().split())
