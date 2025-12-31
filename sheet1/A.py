@@ -1,4 +1,4 @@
-s=input()
+S=input()
 print("Hello, "+S)
 
 
