@@ -1,0 +1,7 @@
+A = input()
+B = input()
+print(len(A),len(B))
+print(A+B)
+a = A.replace(A[0] , B[0])
+b = B.replace(B[0] , A[0])
+print(a,b)
