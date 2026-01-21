@@ -10,7 +10,8 @@ for i in range(len(lst)):
     c2.append(i)
   else:
     c3.append(i)
-m = min(len(c1),len(c2),len(c3)) 
+m = min(len(c1),len(c2),len(c3))
+print(m) 
 for i in range(m):
   print(c1[i],c2[i],c3[i])
   
