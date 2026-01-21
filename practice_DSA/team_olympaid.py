@@ -13,6 +13,6 @@ for i in range(len(lst)):
 m = min(len(c1),len(c2),len(c3))
 print(m) 
 for i in range(m):
-  print(c1[i],c2[i],c3[i])
+  print(c1[i]+1,c2[i]+1,c3[i]+1)
   
   
