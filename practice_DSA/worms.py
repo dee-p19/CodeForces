@@ -19,4 +19,4 @@ for i in labels:
         else:
             rig = mid - 1
     print(left + 1)  
-    # dry run for better understanding for mid + 1
+# dry run for better understanding for mid + 1
